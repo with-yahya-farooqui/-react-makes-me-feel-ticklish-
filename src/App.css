@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
 *{
-  background-image: url(../src/bg.jpg);
+  background-image: url(../src/bg2.jpg);
 
 }
 /* .a
@@ -16,7 +16,7 @@
   font-family: 'Merriweather', serif;
   /* background-color: blue; */
   text-align: center;
-  background-image: url(../src/bg.jpg);
+  background-image: url(../src/bg2.jpg);
 }
 /* input[type=text] {
   background: transparent;
