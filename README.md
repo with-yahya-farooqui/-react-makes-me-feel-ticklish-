@@ -7,6 +7,10 @@ Possible Improvements-
 * Text-highlighting on search 
 * Changeable background 
 * Parametric Search 
-* Much more
+* Search button
+* Search recommondations
+* Search result optimization
+* Responsiveness
+* Much More
 # [Click here to visit web application.](https://with-yahya-farooqui.github.io/-react-makes-me-feel-ticklish-/)
 
