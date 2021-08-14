@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+*{
+  background-image: url(../src/bg.jpg);
+
+}
+/* .a
+{
+  color:darkcyan;
+  background:white;
+  font-size: 18px;
+  text-align:left;
+
+} */
+
+.App {
+  font-family: 'Merriweather', serif;
+  /* background-color: blue; */
+  text-align: center;
+  background-image: url(../src/bg.jpg);
+}
+/* input[type=text] {
+  background: transparent;
+  border: none;
+  border-bottom: 5px solid #a09595;
+} */
+input[type=text] 
+{
+  margin-top: 40px;
+  padding:5px; 
+  padding-left: 20px;
+  background:white;
+  border:2px solid blue; 
+  -webkit-border-radius: 25px;
+  border-radius: 25px;
+  width: 400px;
+  height: 25px;
+  font-family: 'Merriweather', serif;
+}
+.App-header div:hover
+{
+  background:aqua;
+  text-shadow: 0.5px 0.5px blue;
+  box-shadow: 10px 10px 9px turquoise;
+}
+.App-header div p details summary
+{
+  color:blue;
+  background:white ;
+  font-size: 25px;
+  text-align: left;
+  
+}
+.App-header div p details
+{
+  color:darkcyan;
+  background:white;
+  font-size: 18px;
+  text-align:left;
+}
+/* .App-header div p details details
+{
+  color:darkcyan;
+  background:white;
+  font-size: 18px;
+  text-align:left;
+} */
+/* input[type=text]:focus {
+  border-color:#333;
+} */
+
+/* input[type=submit] {
+  padding:5px 15px; 
+  background:#ccc; 
+  border:0 none;
+  cursor:pointer;
+  -webkit-border-radius: 5px;
+  border-radius: 5px; 
+} */
+.App-header p span{
+  background-color: white;
+}
+.App-header a span{
+  background-color: white;
+}
+.App-logo {
+  height: 0vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  font-family: 'Merriweather', serif;
+  /* background-color:white; */
+  
+  
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color:rgba(0,0,0,0.9);
+}
+
+.App-link {
+  color: rgba(0,0,0,0.9);
+  font-family: 'Merriweather', serif;
+}
+
+
