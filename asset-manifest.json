@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/-react-makes-me-feel-ticklish-/static/css/main.0ce2f1b4.chunk.css",
+    "main.js": "/-react-makes-me-feel-ticklish-/static/js/main.ce3012c7.chunk.js",
+    "main.js.map": "/-react-makes-me-feel-ticklish-/static/js/main.ce3012c7.chunk.js.map",
+    "runtime-main.js": "/-react-makes-me-feel-ticklish-/static/js/runtime-main.b30bd1cb.js",
+    "runtime-main.js.map": "/-react-makes-me-feel-ticklish-/static/js/runtime-main.b30bd1cb.js.map",
+    "static/js/2.24111b0d.chunk.js": "/-react-makes-me-feel-ticklish-/static/js/2.24111b0d.chunk.js",
+    "static/js/2.24111b0d.chunk.js.map": "/-react-makes-me-feel-ticklish-/static/js/2.24111b0d.chunk.js.map",
+    "static/js/3.7a0ff20a.chunk.js": "/-react-makes-me-feel-ticklish-/static/js/3.7a0ff20a.chunk.js",
+    "static/js/3.7a0ff20a.chunk.js.map": "/-react-makes-me-feel-ticklish-/static/js/3.7a0ff20a.chunk.js.map",
+    "index.html": "/-react-makes-me-feel-ticklish-/index.html",
+    "static/css/main.0ce2f1b4.chunk.css.map": "/-react-makes-me-feel-ticklish-/static/css/main.0ce2f1b4.chunk.css.map",
+    "static/js/2.24111b0d.chunk.js.LICENSE.txt": "/-react-makes-me-feel-ticklish-/static/js/2.24111b0d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/-react-makes-me-feel-ticklish-/static/media/bg.135fcc5a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b30bd1cb.js",
+    "static/js/2.24111b0d.chunk.js",
+    "static/css/main.0ce2f1b4.chunk.css",
+    "static/js/main.ce3012c7.chunk.js"
+  ]
+}
