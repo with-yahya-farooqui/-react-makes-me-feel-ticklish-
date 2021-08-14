@@ -8,7 +8,5 @@ Possible Improvements-
 * Changeable background 
 * Parametric Search 
 * Much more
-
-http://github.com - automatic!
-[GitHub](http://github.com)
+[Click here to visit web application.](https://with-yahya-farooqui.github.io/-react-makes-me-feel-ticklish-/)
 
